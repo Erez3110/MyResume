@@ -25,26 +25,26 @@ Microsoft Windows, Selenium, JavaScript, Oxygen, Git, Bitbucket, Cloudbeat, Inte
 * Experienced in sanity/regression/integration testing, E2E, Client/Server-side testing, and investigating logs.<br/>
 * Proficient in SQL Server, writing queries, working with a big database and multiple tables.<br/>
 * Recreating, reporting, and documenting bugs using Jira and QC.<br/>
-<br/>
+
 **2018: Crowd testing, Tester Work<br/>**
 Executing STD's, performing compatibility and exploratory tests for WEB and Mobile projects.<br/>
-<br/>
+
 **2017 - 2019: Medical underwriter, Clal Insurance ltd<br/>**
 **2014 - 2017: Back-Office referent, Clal Insurance ltd<br/>**
-<br/>
+
 # Education
 **2020: Full Stack Automation course graduate - Yoni Flenner<br/>**
-Designing and creating an automation infrastructure from scratch using Java and POM.<br/>
-Writing test cases for multiple platforms using Selenium, Appium, RESTassured, and TestNG.<br/>
-Performing Data-Driven Testing, generating detailed reports with Allure, and implementing CI using Jenkins.<br/>
-<br/>
+* Designing and creating an automation infrastructure from scratch using Java and POM.<br/>
+* Writing test cases for multiple platforms using Selenium, Appium, RESTassured, and TestNG.<br/>
+* Performing Data-Driven Testing, generating detailed reports with Allure, and implementing CI using Jenkins.<br/>
+
 **2019-2020: System analyst course graduate - Technion<br/>**
-Exploring the software development life cycle (SDLC) and applying its different approaches (Agile/Waterfall).<br/>
-Defining requirements and writing SRS document for information and BI systems.<br/>
-Creating a prototype using C#, HTML, CSS including Planning an ERD, connecting to a DB and designing UI/UX.<br/>
-<br/>
+* Exploring the software development life cycle (SDLC) and applying its different approaches (Agile/Waterfall).<br/>
+* Defining requirements and writing SRS document for information and BI systems.<br/>
+* Creating a prototype using C#, HTML, CSS including Planning an ERD, connecting to a DB and designing UI/UX.<br/>
+
 **2019: Manual QA course graduate - SV College<br/>**
 **2011 - 2014: B.A in economics and business management - Bar-Ilan University<br/>**
-<br/>
+
 # Languages
 Hebrew: Mother tongue, English: High Level<br/>
