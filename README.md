@@ -47,4 +47,4 @@ Executing STD's, performing compatibility and exploratory tests for WEB and Mobi
 **2011 - 2014: B.A in economics and business management - Bar-Ilan University<br/>**
 
 # Languages
-Hebrew: Mother tongue, English: High Level<br/>
+**Hebrew:** Mother tongue, **English:** High Level<br/>
