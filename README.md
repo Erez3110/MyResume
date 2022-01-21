@@ -7,7 +7,8 @@
 
 # Summary
 * 3 years of overall QA Testing experience and 1 year of Automation Testing experience (Selenium Webdriver).<br/>
-* Hands-on experience in designing and creating an automation framework using JavaScript and POM.<br/>
+* Hands-on experience in designing and creating an automation framework using POM principles.<br/>
+* Experienced in writing automated test scripts using JavaScript and Selenium.<br/>
 * Excellent understanding of complex business processes, testing requirements and developing test cases.<br/>
 * B.A in economics & business management, Manual & automated QA course and System analyst course graduate.<br/>
 
